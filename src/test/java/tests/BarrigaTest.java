@@ -58,7 +58,7 @@ public class BarrigaTest extends BaseTest {
 
 
     @Test
-    public void t02_deveCadastrarContaComSucesso(){
+    public void t02_deveIncluirContaComSucesso(){
         Response response = given()
               //.header("Authorization", "JWT " + token)
               .body("{\"nome\": \" "+CONTA_NAME+" \"}")
