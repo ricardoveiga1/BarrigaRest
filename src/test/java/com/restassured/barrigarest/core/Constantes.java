@@ -1,4 +1,4 @@
-package core;
+package com.restassured.barrigarest.core;
 
 import io.restassured.http.ContentType;
 

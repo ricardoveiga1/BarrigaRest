@@ -1,4 +1,4 @@
-package utils;
+package com.restassured.barrigarest.utils;
 
 import io.restassured.RestAssured;
 
